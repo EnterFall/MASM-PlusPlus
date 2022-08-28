@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Project_MASM++": {
+      "commandName": "Project",
+      "commandLineArgs": "test.asm result.asm"
+    }
+  }
+}
